@@ -1,3 +1,17 @@
 {
-  "rust-analyzer.linkedProjects": ["./11_packages-and-crates/Cargo.toml"]
+  "rust-analyzer.linkedProjects": [
+    "./01_hello-rust/Cargo.toml",
+    "./02_hello-cargo/Cargo.toml",
+    "./03_variables-and-mutability/Cargo.toml",
+    "./04_data-types/Cargo.toml",
+    "./05_functions/Cargo.toml",
+    "./06_control-flow/Cargo.toml",
+    "./07_guessing_game/Cargo.toml",
+    "./08_structs/Cargo.toml",
+    "./09_rectangles/Cargo.toml",
+    "./10_enums/Cargo.toml",
+    "./11_packages-and-crates/Cargo.toml",
+    "./12_restaurant/Cargo.toml",
+    "./13_collections/Cargo.toml"
+  ]
 }
