@@ -12,6 +12,7 @@
     "./10_enums/Cargo.toml",
     "./11_packages-and-crates/Cargo.toml",
     "./12_restaurant/Cargo.toml",
-    "./13_collections/Cargo.toml"
+    "./13_collections/Cargo.toml",
+    "./14_error-handling/Cargo.toml"
   ]
 }
