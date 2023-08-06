@@ -15,6 +15,8 @@
     "./13_collections/Cargo.toml",
     "./14_error-handling/Cargo.toml",
     "./15_generics-traits-lifetimes/Cargo.toml",
-    "./16_adder/Cargo.toml"
-  ]
+    "./16_adder/Cargo.toml",
+    "./17_minigrep/Cargo.toml"
+  ],
+  "cSpell.words": ["minigrep"]
 }
