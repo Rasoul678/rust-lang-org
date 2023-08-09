@@ -17,7 +17,9 @@
     "./15_generics-traits-lifetimes/Cargo.toml",
     "./16_adder/Cargo.toml",
     "./17_minigrep/Cargo.toml",
-    "./18_closures-iterators/Cargo.toml"
+    "./18_closures-iterators/Cargo.toml",
+    "./19_cargo-crates/Cargo.toml",
+    "./20_greet/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
