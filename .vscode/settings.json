@@ -19,7 +19,8 @@
     "./17_minigrep/Cargo.toml",
     "./18_closures-iterators/Cargo.toml",
     "./19_cargo-crates/Cargo.toml",
-    "./20_greet/Cargo.toml"
+    "./20_greet/Cargo.toml",
+    "./21_cargo-workspaces/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
