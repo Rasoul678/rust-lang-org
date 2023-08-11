@@ -21,7 +21,8 @@
     "./19_cargo-crates/Cargo.toml",
     "./20_greet/Cargo.toml",
     "./21_cargo-workspaces/Cargo.toml",
-    "./22_smart_pointers/Cargo.toml"
+    "./22_smart_pointers/Cargo.toml",
+    "./23_tree_structure/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
