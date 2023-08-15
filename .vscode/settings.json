@@ -23,7 +23,8 @@
     "./21_cargo-workspaces/Cargo.toml",
     "./22_smart_pointers/Cargo.toml",
     "./23_tree_structure/Cargo.toml",
-    "./24_fearless-concurrency/Cargo.toml"
+    "./24_fearless-concurrency/Cargo.toml",
+    "./25_oop_features/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
