@@ -26,7 +26,8 @@
     "./24_fearless-concurrency/Cargo.toml",
     "./25_oop_features/Cargo.toml",
     "./26_gui/Cargo.toml",
-    "./27_blog/Cargo.toml"
+    "./27_blog/Cargo.toml",
+    "./28_rethink_blog/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
