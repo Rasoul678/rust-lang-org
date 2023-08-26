@@ -47,7 +47,6 @@ pub fn unsafe_rust() {
     }
 
     // Implementing an Unsafe Trait
-
 }
 
 fn split_at_mut(values: &mut [i32], mid: usize) -> (&mut [i32], &mut [i32]) {
@@ -79,8 +78,7 @@ fn add_to_count(inc: u32) {
     }
 }
 
-
-unsafe trait Foo{
+unsafe trait Foo {
     // methods go here
 }
 
