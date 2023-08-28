@@ -29,7 +29,8 @@
     "./27_blog/Cargo.toml",
     "./28_rethink_blog/Cargo.toml",
     "./29_patterns_matching/Cargo.toml",
-    "./30_advanced_features/Cargo.toml"
+    "./30_advanced_features/Cargo.toml",
+    "./31_web_server/Cargo.toml"
   ],
   "cSpell.words": ["minigrep"]
 }
